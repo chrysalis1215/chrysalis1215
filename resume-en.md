@@ -1,6 +1,6 @@
 # Resume Jingya Zhang
 
-**Contact** [jingya_z@foxmail.com](mailto:jingya_z@foxmail.com)  | Vancouver
+**Contact** [jingya_z@foxmail.com](mailto:jingya_z@foxmail.com)  | Seattle US
 
 **Github**   [https://github.com/chrysalis1215](https://github.com/chrysalis1215)                                   
 
@@ -8,18 +8,18 @@
 
 ## Professional Summary
 
-Senior Frontend Software Engineer with 9 years of experience building scalable, high-performance web applications and hybrid mobile systems at Meituan, Tencent, and Baidu. Skilled in designing extensible architectures, leading cross-functional teams, and delivering complex products from concept to deployment. Proven track record of improving developer efficiency, mentoring new engineers, and balancing both technical execution and product leadership. Experienced in low-code platforms, component libraries, and large-scale frontend systems serving millions of users.
+Senior Frontend Software Engineer with 8 years of experience building scalable, high-performance web applications and hybrid mobile systems at Meituan, Tencent, and Baidu. Skilled in designing extensible architectures, leading cross-functional teams, and delivering complex products from concept to deployment. Proven track record of improving developer efficiency, mentoring new engineers, and balancing both technical execution and product leadership. Experienced in low-code platforms, component libraries, and large-scale frontend systems serving millions of users.
 
 ---
 
 ## Core Tech Stack
 
-- **Frontend Frameworks & Libraries**: React, Vue2, MobX, Ant Design, TDesign
+- **Frontend Frameworks & Libraries**: React, Vue, MobX, Ant Design, TDesign
 - **State Management**: Vuex, MobX
 - **Languages & Standards**: TypeScript, JavaScript (ES6+), JSX
 - **Build & Tooling**: Webpack, Vite, Hybrid App (H5/WebView), CI/CD, Docker
 - **UI/UX & Low-Code**: Low-code UI builder, reusable components, drag-and-drop design, internationalization (i18n)
-- **Other Technologies**: REST APIs, Node.js, jQuery, Shell scripting, Git
+- **Other Technologies**: REST APIs, Python, Node.js, Shell scripting, Git
 
 ---
 
@@ -108,6 +108,11 @@ Jun 2015 - Jul 2016 | Beijing, China
 - Maintenance offical front-end website
 
 **Tech Stack:** Javascript, JQuery, AMD, Shell, Git
+
+
+## Career Break & Skill Development
+Aug 2024 – Current
+Focused on personal matters, English improvement, frontend skill refresh, and AI application development. Built small projects using React, TypeScript, and LLM APIs.
 
 ---
 
